@@ -3,7 +3,7 @@ A very cool tool that can be used to flash Windows and its server variants onto 
 How to use?
 1. Double click the batch file
 2. Choose what option your going to use
-3. (For option 1) Input the drive letter of your attached vhd or vhdx
+3. Input the drive letter of your attached vhd or vhdx
 4. (For option 1) Input your location to the install.wim or esd
 5. (For option 1) Select what index you want
 6. Wait untill that finishes
